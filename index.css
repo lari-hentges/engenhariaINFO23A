@@ -1,0 +1,9 @@
+input{
+    height: 20px;
+    width: 100px;
+}
+
+button{
+    background-color: black;
+    color: white;
+}
